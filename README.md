@@ -1,3 +1,10 @@
+Authentication in React Applications - Fork
+====================================
+
+This repo is forked from a really great tutorial - it belongs to this trail - https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components
+
+*IMPORTANT* - The below content does not belong to me - it belongs to the source repo owner
+
 Authentication in React Applications
 ====================================
 The source code for a two-part tutorial for beginners who want to start to build applications using React and add an authentication layer to it. It was written for my blog, [https://vladimirponomarev.com](http://vladimirponomarev.com).
